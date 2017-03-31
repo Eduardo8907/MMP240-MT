@@ -1,0 +1,28 @@
+/*begining for MENU CSS*/
+body{
+	width:90%;
+	margin: 0 auto;
+}
+.container{
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+#content{
+	float: left;
+	overflow: auto;
+}
+
+nav{
+	margin: 1%;
+}
+
+aside{
+	float: left;
+	margin: 1%;
+	max-width: 19%;
+}
+
+.logo{
+	max-width: 100%;
+}
